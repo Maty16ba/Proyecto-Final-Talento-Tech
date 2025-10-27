@@ -1,0 +1,11 @@
+.list-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.error-message {
+  text-align: center;
+  color: red;
+  margin: 2rem 0;
+}

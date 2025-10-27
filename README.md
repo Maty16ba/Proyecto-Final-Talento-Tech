@@ -32,4 +32,5 @@ Este es la pre entrega para el proyecto para el curso de React.
 3.  Ejecutar el proyecto en modo de desarrollo:
     ```bash
     npm run dev
+
     ```
